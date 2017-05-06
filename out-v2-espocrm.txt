@@ -1,0 +1,679 @@
+Number of pages: 18
+Processing page... 1
+Issues in the page: 30
+Total found:  0  of  7
+Total found:  0  of  12
+Total found:  0  of  5
+Total found:  0  of  71
+Found word:  image
+Found word:  image
+Found word:  show
+Total found:  3  of  65
+Found word:  dashboard
+Found word:  tab
+Total found:  2  of  27
+Total found:  0  of  119
+Found word:  labels
+Total found:  1  of  22
+Found word:  warning
+Total found:  1  of  25
+Found word:  select
+Total found:  1  of  8
+Found word:  link
+Found word:  links
+Found word:  display
+Found word:  clicks
+Total found:  4  of  110
+Total found:  0  of  12
+Total found:  0  of  12
+Total found:  0  of  44
+Found word:  view
+Total found:  1  of  29
+Found word:  viewport
+Found word:  resize
+Found word:  bar
+Found word:  viewport
+Found word:  bar
+Found word:  chrome
+Found word:  box
+Found word:  resize
+Total found:  8  of  61
+Found word:  button
+Found word:  panel
+Found word:  click
+Total found:  3  of  34
+Found word:  position
+Found word:  position
+Total found:  2  of  55
+Found word:  lowercase
+Found word:  view
+Total found:  2  of  45
+Found word:  marked
+Total found:  1  of  36
+Found word:  browser
+Total found:  1  of  83
+Proc. finished
+Processing page... 2
+Issues in the page: 30
+Total found:  0  of  26
+Total found:  0  of  13
+Total found:  0  of  77
+Found word:  browser
+Found word:  ie
+Total found:  2  of  49
+Found word:  image
+Found word:  button
+Found word:  red
+Found word:  mark
+Found word:  disabled
+Found word:  image
+Total found:  6  of  72
+Total found:  0  of  36
+Total found:  0  of  13
+Found word:  theme
+Total found:  1  of  32
+Found word:  browser
+Total found:  1  of  27
+Found word:  select
+Found word:  box
+Total found:  2  of  120
+Found word:  buttons
+Found word:  radio
+Found word:  checkbox
+Found word:  radio
+Total found:  4  of  17
+Total found:  0  of  45
+Found word:  warning
+Found word:  js
+Total found:  2  of  72
+Found word:  layout
+Total found:  1  of  10
+Found word:  html
+Found word:  table
+Found word:  right
+Found word:  table
+Found word:  disabled
+Found word:  modal
+Total found:  6  of  98
+Found word:  phone
+Found word:  well
+Total found:  2  of  60
+Found word:  right
+Found word:  top
+Found word:  panel
+Total found:  3  of  71
+Total found:  0  of  30
+Found word:  display
+Found word:  right
+Total found:  2  of  103
+Found word:  hide
+Found word:  modal
+Total found:  2  of  86
+Proc. finished
+Processing page... 3
+Issues in the page: 30
+Found word:  button
+Found word:  row
+Found word:  show
+Found word:  tab
+Total found:  4  of  179
+Found word:  header
+Found word:  header
+Found word:  well
+Found word:  chrome
+Found word:  jquery
+Total found:  5  of  113
+Found word:  forms
+Found word:  select
+Found word:  blocks
+Found word:  forms
+Found word:  tooltip
+Found word:  tooltip
+Total found:  6  of  87
+Found word:  link
+Found word:  button
+Found word:  input
+Found word:  div
+Found word:  element
+Found word:  template
+Found word:  label
+Found word:  div
+Found word:  template
+Found word:  tab
+Found word:  move
+Total found:  11  of  102
+Total found:  0  of  98
+Total found:  0  of  14
+Total found:  0  of  34
+Total found:  0  of  37
+Found word:  link
+Found word:  showing
+Total found:  2  of  82
+Total found:  0  of  12
+Total found:  0  of  16
+Total found:  0  of  1
+Total found:  0  of  4
+Found word:  button
+Found word:  panel
+Found word:  click
+Total found:  3  of  77
+Found word:  table
+Found word:  row
+Found word:  columns
+Found word:  table
+Total found:  4  of  119
+Total found:  0  of  81
+Proc. finished
+Processing page... 4
+Issues in the page: 30
+Found word:  view
+Total found:  1  of  35
+Found word:  table
+Found word:  table
+Total found:  2  of  4
+Total found:  0  of  4
+Found word:  link
+Total found:  1  of  20
+Total found:  0  of  49
+Found word:  right
+Total found:  1  of  130
+Found word:  view
+Found word:  datepicker
+Total found:  2  of  347
+Found word:  column
+Found word:  display
+Total found:  2  of  50
+Found word:  dropdown
+Total found:  1  of  15
+Total found:  0  of  33
+Found word:  select
+Total found:  1  of  70
+Found word:  view
+Total found:  1  of  64
+Total found:  0  of  1
+Total found:  0  of  12
+Total found:  0  of  1
+Proc. finished
+Processing page... 5
+Issues in the page: 30
+Total found:  0  of  7
+Total found:  0  of  15
+Total found:  0  of  20
+Total found:  0  of  5
+Found word:  html
+Found word:  body
+Total found:  2  of  44
+Found word:  input
+Found word:  phone
+Total found:  2  of  48
+Total found:  0  of  68
+Total found:  0  of  5
+Total found:  0  of  38
+Found word:  well
+Total found:  1  of  355
+Total found:  0  of  40
+Total found:  0  of  32
+Total found:  0  of  58
+Proc. finished
+Processing page... 6
+Issues in the page: 30
+Found word:  orange
+Total found:  1  of  67
+Total found:  0  of  18
+Found word:  body
+Total found:  1  of  45
+Found word:  display
+Total found:  1  of  119
+Total found:  0  of  24
+Total found:  0  of  2
+Found word:  click
+Total found:  1  of  26
+Found word:  show
+Found word:  view
+Total found:  2  of  13
+Total found:  0  of  1
+Found word:  table
+Found word:  left
+Found word:  table
+Found word:  active
+Total found:  4  of  125
+Found word:  select
+Found word:  right
+Total found:  2  of  54
+Total found:  0  of  52
+Total found:  0  of  17
+Total found:  0  of  1
+Found word:  table
+Found word:  table
+Total found:  2  of  36
+Found word:  link
+Found word:  menu
+Found word:  templates
+Found word:  templates
+Total found:  4  of  57
+Total found:  0  of  4
+Total found:  0  of  2
+Total found:  0  of  31
+Proc. finished
+Processing page... 7
+Issues in the page: 30
+Total found:  0  of  39
+Total found:  0  of  35
+Total found:  0  of  20
+Found word:  table
+Found word:  table
+Found word:  dialog
+Total found:  3  of  33
+Found word:  row
+Found word:  column
+Total found:  2  of  17
+Total found:  0  of  5
+Total found:  0  of  19
+Total found:  0  of  1
+Found word:  header
+Found word:  header
+Total found:  2  of  30
+Total found:  0  of  22
+Total found:  0  of  9
+Total found:  0  of  12
+Total found:  0  of  10
+Total found:  0  of  7
+Total found:  0  of  16
+Found word:  panel
+Total found:  1  of  36
+Found word:  panel
+Total found:  1  of  43
+Total found:  0  of  16
+Proc. finished
+Processing page... 8
+Issues in the page: 30
+Total found:  0  of  21
+Total found:  0  of  30
+Found word:  font
+Found word:  green
+Found word:  font
+Found word:  click
+Total found:  4  of  51
+Total found:  0  of  14
+Total found:  0  of  139
+Found word:  phone
+Total found:  1  of  23
+Found word:  image
+Found word:  cell
+Found word:  red
+Found word:  image
+Total found:  4  of  52
+Total found:  0  of  38
+Found word:  dashboard
+Total found:  1  of  24
+Found word:  image
+Found word:  input
+Found word:  image
+Total found:  3  of  183
+Total found:  0  of  45
+Total found:  0  of  16
+Total found:  0  of  21
+Found word:  html
+Total found:  1  of  37
+Found word:  form
+Found word:  form
+Found word:  browser
+Total found:  3  of  37
+Total found:  0  of  37
+Total found:  0  of  14
+Proc. finished
+Processing page... 9
+Issues in the page: 30
+Total found:  0  of  61
+Total found:  0  of  14
+Found word:  link
+Found word:  warning
+Total found:  2  of  23
+Total found:  0  of  6
+Found word:  show
+Total found:  1  of  10
+Total found:  0  of  22
+Total found:  0  of  9
+Total found:  0  of  18
+Found word:  body
+Total found:  1  of  41
+Total found:  0  of  21
+Total found:  0  of  13
+Total found:  0  of  6
+Total found:  0  of  18
+Total found:  0  of  36
+Found word:  drop
+Total found:  1  of  31
+Total found:  0  of  22
+Found word:  links
+Found word:  well
+Found word:  javascript
+Total found:  3  of  46
+Proc. finished
+Processing page... 10
+Issues in the page: 30
+Total found:  0  of  22
+Found word:  link
+Found word:  links
+Found word:  show
+Total found:  3  of  76
+Found word:  panels
+Total found:  1  of  12
+Total found:  0  of  71
+Total found:  0  of  19
+Total found:  0  of  20
+Found word:  template
+Found word:  template
+Total found:  2  of  97
+Total found:  0  of  7
+Total found:  0  of  3
+Total found:  0  of  10
+Proc. finished
+Processing page... 11
+Issues in the page: 30
+Total found:  0  of  7
+Found word:  select
+Found word:  script
+Found word:  padding
+Total found:  3  of  119
+Total found:  0  of  8
+Found word:  progress
+Total found:  1  of  53
+Total found:  0  of  30
+Found word:  button
+Total found:  1  of  43
+Total found:  0  of  2
+Found word:  dashboard
+Found word:  tab
+Total found:  2  of  48
+Found word:  warning
+Total found:  1  of  43
+Found word:  select
+Total found:  1  of  22
+Found word:  label
+Found word:  showing
+Total found:  2  of  18
+Total found:  0  of  20
+Found word:  panel
+Total found:  1  of  88
+Total found:  0  of  56
+Total found:  0  of  8
+Total found:  0  of  6
+Total found:  0  of  25
+Proc. finished
+Processing page... 12
+Issues in the page: 30
+Total found:  0  of  11
+Total found:  0  of  68
+Total found:  0  of  4
+Total found:  0  of  4
+Total found:  0  of  34
+Found word:  position
+Found word:  position
+Total found:  2  of  28
+Found word:  css
+Found word:  height
+Found word:  theme
+Found word:  navbar
+Found word:  resize
+Found word:  bar
+Found word:  bar
+Found word:  resize
+Total found:  8  of  42
+Found word:  drop
+Total found:  1  of  12
+Total found:  0  of  37
+Total found:  0  of  29
+Found word:  grid
+Total found:  1  of  24
+Found word:  table
+Found word:  columns
+Found word:  table
+Found word:  modal
+Total found:  4  of  39
+Proc. finished
+Processing page... 13
+Issues in the page: 30
+Total found:  0  of  11
+Total found:  0  of  17
+Total found:  0  of  3
+Found word:  form
+Found word:  marked
+Found word:  form
+Found word:  view
+Total found:  4  of  33
+Total found:  0  of  20
+Found word:  html
+Total found:  1  of  49
+Total found:  0  of  37
+Found word:  right
+Total found:  1  of  27
+Total found:  0  of  55
+Found word:  input
+Found word:  display
+Found word:  autocomplete
+Total found:  3  of  31
+Total found:  0  of  34
+Total found:  0  of  14
+Found word:  well
+Total found:  1  of  15
+Total found:  0  of  49
+Found word:  disabled
+Total found:  1  of  148
+Found word:  template
+Found word:  template
+Total found:  2  of  43
+Found word:  button
+Found word:  desktop
+Found word:  explorer
+Found word:  drop
+Total found:  4  of  60
+Proc. finished
+Processing page... 14
+Issues in the page: 30
+Total found:  0  of  20
+Total found:  0  of  23
+Total found:  0  of  26
+Found word:  html
+Total found:  1  of  20
+Total found:  0  of  13
+Total found:  0  of  2
+Found word:  button
+Total found:  1  of  22
+Total found:  0  of  18
+Found word:  select
+Found word:  disabled
+Total found:  2  of  26
+Found word:  active
+Total found:  1  of  78
+Total found:  0  of  48
+Total found:  0  of  36
+Total found:  0  of  54
+Total found:  0  of  57
+Total found:  0  of  11
+Found word:  color
+Found word:  theme
+Found word:  well
+Total found:  3  of  80
+Found word:  link
+Total found:  1  of  102
+Found word:  well
+Total found:  1  of  61
+Total found:  0  of  6
+Proc. finished
+Processing page... 15
+Issues in the page: 30
+Found word:  html
+Total found:  1  of  96
+Total found:  0  of  11
+Total found:  0  of  14
+Total found:  0  of  24
+Found word:  layout
+Total found:  1  of  64
+Total found:  0  of  2
+Total found:  0  of  13
+Total found:  0  of  22
+Found word:  show
+Total found:  1  of  37
+Found word:  column
+Found word:  grid
+Total found:  2  of  77
+Found word:  close
+Total found:  1  of  51
+Total found:  0  of  28
+Total found:  0  of  11
+Found word:  hide
+Found word:  view
+Total found:  2  of  36
+Proc. finished
+Processing page... 16
+Issues in the page: 30
+Total found:  0  of  20
+Total found:  0  of  48
+Found word:  phone
+Total found:  1  of  24
+Total found:  0  of  7
+Found word:  js
+Total found:  1  of  40
+Total found:  0  of  45
+Found word:  display
+Total found:  1  of  53
+Found word:  move
+Total found:  1  of  45
+Found word:  active
+Total found:  1  of  230
+Found word:  view
+Total found:  1  of  16
+Total found:  0  of  33
+Total found:  0  of  26
+Total found:  0  of  22
+Found word:  input
+Found word:  layout
+Found word:  tab
+Total found:  3  of  65
+Total found:  0  of  30
+Total found:  0  of  39
+Total found:  0  of  17
+Total found:  0  of  13
+Total found:  0  of  34
+Found word:  theme
+Total found:  1  of  32
+Total found:  0  of  25
+Found word:  firefox
+Found word:  click
+Total found:  2  of  31
+Found word:  view
+Found word:  javascript
+Total found:  2  of  42
+Total found:  0  of  14
+Proc. finished
+Processing page... 17
+Issues in the page: 30
+Found word:  body
+Found word:  javascript
+Total found:  2  of  46
+Total found:  0  of  72
+Total found:  0  of  10
+Total found:  0  of  60
+Found word:  body
+Found word:  display
+Found word:  well
+Found word:  checkbox
+Found word:  tab
+Total found:  5  of  171
+Found word:  select
+Found word:  element
+Found word:  show
+Found word:  browser
+Found word:  view
+Found word:  tab
+Total found:  6  of  125
+Found word:  right
+Total found:  1  of  28
+Total found:  0  of  40
+Found word:  link
+Found word:  firefox
+Found word:  chromium
+Total found:  3  of  41
+Found word:  display
+Found word:  layout
+Found word:  grid
+Found word:  tab
+Total found:  4  of  43
+Total found:  0  of  21
+Total found:  0  of  9
+Total found:  0  of  22
+Found word:  body
+Found word:  textarea
+Found word:  template
+Found word:  template
+Total found:  4  of  25
+Found word:  show
+Total found:  1  of  69
+Found word:  table
+Found word:  column
+Found word:  table
+Total found:  3  of  241
+Found word:  row
+Found word:  column
+Found word:  phone
+Total found:  3  of  36
+Found word:  tab
+Total found:  1  of  79
+Found word:  display
+Total found:  1  of  28
+Total found:  0  of  8
+Found word:  inputs
+Found word:  show
+Total found:  2  of  55
+Total found:  0  of  21
+Total found:  0  of  13
+Found word:  link
+Total found:  1  of  115
+Found word:  input
+Total found:  1  of  57
+Found word:  table
+Found word:  table
+Total found:  2  of  62
+Total found:  0  of  11
+Found word:  link
+Total found:  1  of  15
+Proc. finished
+Processing page... 18
+Issues in the page: 25
+Found word:  box
+Total found:  1  of  12
+Found word:  modal
+Total found:  1  of  20
+Total found:  0  of  5
+Total found:  0  of  12
+Total found:  0  of  4
+Total found:  0  of  17
+Found word:  placeholder
+Total found:  1  of  19
+Total found:  0  of  5
+Total found:  0  of  24
+Found word:  body
+Found word:  width
+Found word:  tablet
+Found word:  drop
+Total found:  4  of  21
+Total found:  0  of  3
+Total found:  0  of  4
+Found word:  width
+Found word:  media
+Found word:  chrome
+Total found:  3  of  23
+Found word:  display
+Total found:  1  of  72
+Found word:  devices
+Total found:  1  of  23
+Total found:  0  of  10
+Found word:  body
+Total found:  1  of  63
+Total found:  0  of  6
+Proc. finished
+All issues:  315
+At least one word was found in  143  issues
+Average word count that was found:  2.132867132867133
+Done!

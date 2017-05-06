@@ -9,7 +9,7 @@ function options(url){
 		headers: {
 			'User-Agent': 'dashko',
 			'username': 'dashko',
-			'Authorization': "token fe123c6662bb5333b7e612e864d76c29dc662187"
+			'Authorization': "token YOUR_TOKEN"
 		}
 	}
 }
@@ -60,9 +60,12 @@ function processIssue (issue) {
 	var issue_body = issue.body.replace(/[^a-zA-Z\s]/g, '').replace(/\s+/g, ' ').toLowerCase().split(' ');
 	var found = 0, all = issue_body.length;
 	for (var i in words) {
-		if(include(issue_body, words[i]))
+		if(include(issue_body, words[i])) {
+            console.log("Found word: ", words[i]);
 			found++;
+        }
 	}
+    console.log("Total found: ",found," of ",all)
 	return {r:found/all,found:found};
 }
 
@@ -72,7 +75,7 @@ function include(arr,obj) {
 
 function main() {
 
-	var owner = 'opencart', repo = 'opencart';
+	var owner = 'espocrm', repo = 'espocrm';
 
 	getIssuesPageCount(owner, repo).then(function (pageCount) {
 		console.log('Number of pages:', pageCount);
@@ -100,10 +103,11 @@ function main() {
 
 		return sequential(seq).then(function (issues, a) {
 
-			var one = 0, found_count = 0, found_sum = 0;
+			var one = 0, found_count = 0, found_sum = 0, body_count = 0;
 
 			for (var j in issues) {
 				var issue_r = issues[j].r;
+                if (issues[j].body) body_count++;
 				if (issue_r.r>0) {
 					one++;
 					found_count++;
@@ -111,7 +115,7 @@ function main() {
 				}
 			}
 
-			console.log('All issues: ', issues.length);
+			console.log('All issues: ', body_count);
 			console.log('At least one word was found in ', one, ' issues');
 			console.log('Average word count that was found: ', found_sum/found_count)
 

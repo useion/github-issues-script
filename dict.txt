@@ -64,11 +64,115 @@ right
 top
 bottom
 element
+responsive
+mobile
+frontend
+shape shapes
+phone phones
+tablet tables
+desktop desktops
+device devices
+template templates
+theme themes
+grid grids
+navbar 
+cover covers
+carousel
+dashboard
+navigation
+footer
+header
+viewport
+media
+safari
+shadow
+radius
+hover
+focus
+horizontal
+vertical
+wrap wrapping wrappers
+heading
+inline
+mark marked
+Strikethrough
+Underlined Underline
+Bold strong
+Italics
+justify
+nowrap
+lowercase
+uppercase
+capitalize
+blockquote
+Unordered ordered
+block blocks
+table tables
+Striped
+Bordered
+Condensed
+active
+success
+warning
+danger
+labels label
+Focus
+Disabled
+span div
+Image img
+rounded
+circle
+thumbnail
+Clearfix
+Showing hiding show hide
+hidden
+Transitions
+Transformations
+Animations
+Placeholder
+Gradients
+Resizable resize
+Truncating
+overflow
+ellipsis
+Retina
+Dropdowns Dropdown
+dropup
+Alignment
+Divider
+radio
+Forms Form
+Inverted
+Breadcrumbs Breadcrumb
+Pagination
+Badges  Badge
+collapsing
+Jumbotron
+Alerts Alert
+bars bar
+panel panels
+embed
+Modals Modal
+Tooltips Tooltip
+placement
+selector
+template templates
+viewport
+Popovers Popover
+alerts alert
+Accordion
+Progress bar
+Carousel
+Typography
+Iconography
+Wells Well
+Close
 
 
 browser browsers
 frontend
 view
+explorer
 ie
 firefox
 chrome
